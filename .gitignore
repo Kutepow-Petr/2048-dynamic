@@ -1,0 +1,11 @@
+release/
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.swp
+node_modules/
+package-lock.json
+dist/
+build/
+*.log
