@@ -1,11 +1,11 @@
-release/
+.github
+release
 .DS_Store
 Thumbs.db
-.vscode/
-.idea/
+.idea
 *.swp
-node_modules/
+node_modules
 package-lock.json
-dist/
-build/
+dist
+build
 *.log
