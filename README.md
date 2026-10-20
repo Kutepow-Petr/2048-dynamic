@@ -1,4 +1,4 @@
-![demo.gif](.github/assets/demo.gif)
+![demo.gif](assets/demo.gif)
 # 2048 Dynamic
 
 Браузерная версия игры 2048 с динамически растущим полем:
